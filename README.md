@@ -1,4 +1,5 @@
 # Rubik's Cube Timer
+![image](https://github.com/user-attachments/assets/d9cd9474-c6ef-428c-bd30-dc2b43e73e80)
 
 A feature-rich Rubik's Cube solving timer application built with Python and Tkinter. Track your solving times, view statistics, and monitor your progress with an interactive graph.
 
